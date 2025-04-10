@@ -1,0 +1,46 @@
+# Ambiente virtual
+manim-venv/
+venv/
+env/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Arquivos de mídia (opcional - você pode querer manter alguns)
+# Descomente a linha abaixo se quiser ignorar toda a pasta media
+# media/
+
+# Apenas ignore os vídeos de alta qualidade para economizar espaço
+media/videos/*/1080p60/
+media/videos/*/2160p60/
+media/videos/*/4k/
+
+# Logs e arquivos temporários
+*.log
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.bak
+*.swp
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos do IDE (se você usar)
+.idea/
+.vscode/
+*.sublime-workspace
