@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/hello/2160p60/partial_movie_files/Hello/670651367_2333288637_223132457.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/hello/2160p60/partial_movie_files/Hello/577047595_2786787093_1708383878.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/hello/2160p60/partial_movie_files/Hello/577047595_1219373736_2244917777.mp4'

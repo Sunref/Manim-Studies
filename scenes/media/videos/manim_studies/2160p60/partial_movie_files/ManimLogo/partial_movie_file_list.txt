@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/manim_studies/2160p60/partial_movie_files/ManimLogo/2563689324_224150295_223132457.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/manim_studies/2160p60/partial_movie_files/ManimLogo/2061606561_888868936_2263293227.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/manim_studies/2160p60/partial_movie_files/ManimLogo/2061606561_74684578_3443685869.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/manim_studies/2160p60/partial_movie_files/ManimLogo/2061606561_1548960008_1657603735.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/manim_studies/2160p60/partial_movie_files/ManimLogo/2061606561_4217992463_3327405690.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/manim_studies/2160p60/partial_movie_files/ManimLogo/2061606561_3748671610_2203613970.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/manim_studies/2160p60/partial_movie_files/ManimLogo/2061606561_599639096_2152106963.mp4'
+file 'file:/home/fernanda/Documentos/GitHub/Manim-Studies/scenes/media/videos/manim_studies/2160p60/partial_movie_files/ManimLogo/2061606561_2844360058_203999071.mp4'
