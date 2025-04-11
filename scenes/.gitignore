@@ -11,15 +11,6 @@ __pycache__/
 *.so
 .Python
 
-# Arquivos de mídia (opcional - você pode querer manter alguns)
-# Descomente a linha abaixo se quiser ignorar toda a pasta media
-# media/
-
-# Apenas ignore os vídeos de alta qualidade para economizar espaço
-media/videos/*/1080p60/
-media/videos/*/2160p60/
-media/videos/*/4k/
-
 # Logs e arquivos temporários
 *.log
 *.aux
